@@ -16,7 +16,15 @@
 
 ## O Formulário:
 ### Você encontrará duas abas assim que abrir o aplicativo, a primeira é para adicionar a operação e a segunda para adicinar as moedas, va ná segunda aba e adicione as moedas que ### desejar e os valores em reais de cada uma.
+![alt text](https://github.com/FernandoLang/images/blob/main/aps4.PNG)
+![alt text](https://github.com/FernandoLang/images/blob/main/aps5.PNG)
+
 
 ### Após volte para a primeira aba e faça uma operação, basta adicionar o nome do cliente, a moeda de origem, a moeda de destino e o valor, o resto dos campos irão se preencher ### sozinhos ao clicar no botão Calcular, basta salvar e a operação aparecerá na lista ao lado direito, ao cliclar um mini relatório aparecerá.
 
+![alt text](https://github.com/FernandoLang/images/blob/main/aps6.PNG)
+![alt text](https://github.com/FernandoLang/images/blob/main/aps7.PNG)
+![alt text](https://github.com/FernandoLang/images/blob/main/aps8.PNG)
+![alt text](https://github.com/FernandoLang/images/blob/main/aps10.PNG)
 ### Você conseguirá usar filtros de data e por nome do cliente, caso queira restar os filtros basta clicar no botão de resetar.
+![alt text](https://github.com/FernandoLang/images/blob/main/aps9.PNG)
